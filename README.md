@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-with-AI
-Built by Python and OpenCV library. Hand gesture recognisation captured by camera and randomised moves from computer
+Built by Python and OpenCV library. Background picture was fully edited by me. Hand gesture recognisation captured by camera and randomised moves from computer
 
 <h1>Screenshot</h1>
 <p>
