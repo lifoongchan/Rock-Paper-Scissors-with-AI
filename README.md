@@ -12,5 +12,5 @@ Built by Python and OpenCV library. Hand gesture recognisation captured by camer
 <br> 
 2. Show a hand gesture of your choice to your camera. The winner gets 1 score for each round.
 <br>
-3. Select "q" to quick the game
+3. Select "q" to quit the game
 </p>
